@@ -2,4 +2,4 @@
 
 [Файлы публикации](https://github.com/alexeynikolaev93/my-report-www)
 
-[Опубликованный реферат](report/Report.md)
+[Опубликованный реферат](Report/Report.md)
